@@ -11,6 +11,6 @@
 
 ## Experience
   Kakao Corp - Software Engineer (2022.06. - Present)  
-  NEXON KOREA - Software Enginner (2021.03. - 2022.06.)
+  NEXON KOREA - Software Engineer (2021.03. - 2022.06.)
   
 </div>  
